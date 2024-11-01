@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation_template</string>
+    <string name="navigation_item_schools_list">Schools</string>
+    <string name="navigation_item_home">Home</string>
+    <string name="navigation_item_crystals_list">Crystals</string>
+    <string name="navigation_item_profile">Profile</string>
+</resources>
